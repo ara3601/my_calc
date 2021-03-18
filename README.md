@@ -1,1 +1,1 @@
-# my_calc
+# my calculator
