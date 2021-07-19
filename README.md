@@ -1,1 +1,1 @@
-# my calculator
+# An open source calculator
