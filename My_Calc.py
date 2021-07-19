@@ -152,7 +152,7 @@ root = tk.Tk()
 root.geometry("300x400+300+300")
 root.resizable(0, 0)
 
-root.title("My Calculator")
+root.title("@anubhavrajanand")
 lbl_data = StringVar()
 
 l1 = Label(root, text="Label", anchor=SE, font=("Verdana", 20), textvariable=lbl_data, background="#ffffff",
